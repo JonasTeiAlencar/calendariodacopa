@@ -27,6 +27,10 @@ ul {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 body * {
   font-family: "Roboto", sans-serif;
 }
@@ -158,11 +162,6 @@ header img {
   border-radius: 5px;
   color: #261118;
 }
-
-a:link    {color:#009;}
-a:visited {color:#090;}
-a:hover   {color:#900;}
-
 
 a:active {
   background-color: white;
